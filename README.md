@@ -1,5 +1,5 @@
 # PROJEKT MOJE FILMY
-Projekt ten składa się z dwóch komponentów:
+Projekt ten składa się z następujących komponentów:
 * **BACKEND/API**: Stworzone przy użyciu .NET
 * **FRONTEND/UI**: Stworzone przy użyciue Vue JS
 * **STYLE**: Zaimplementowane przy pomocy BOOTSTRAP 5
