@@ -343,7 +343,7 @@ const isAPIon = async ()=>{
     <!-- Modal -->
     <Modal :show="showModal" @close="closeModal">
       <template #header>
-        <h3>{{modalTitle}} {{ movieEditId }}</h3>
+        <h3>{{modalTitle}}</h3>
       </template>
       
       <form @submit.prevent="submitForm()">
