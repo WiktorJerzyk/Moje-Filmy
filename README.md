@@ -9,7 +9,7 @@ Projekt ten składa się z następujących komponentów:
 - .NET SDK 6.0 (lub nowszy) dla API
 - VS 2022 z odpowiednimi rozszerzeniami
 
-#PORTY z których domyślnie korzysta projekt:
+# PORTY z których domyślnie korzysta projekt:
 - API korzysta z portu XXXX, na pętli zwrotnej
 - UI korzysta z portu 3500, na pętli zwrotnej
 
