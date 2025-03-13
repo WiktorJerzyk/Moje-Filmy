@@ -10,8 +10,15 @@ Projekt ten składa się z następujących komponentów:
 - VS 2022 z odpowiednimi rozszerzeniami
 
 # PORTY z których domyślnie korzysta projekt:
-- API korzysta z portu XXXX, na pętli zwrotnej
+- API korzysta z portu 5000, na pętli zwrotnej
 - UI korzysta z portu 3500, na pętli zwrotnej
 
-#Instalacja i konfiguracja projektu
-1. 
+# Instrukcja Uruchomienia
+- Klonowanie Repozytorium do folderu: np. **gh repo clone WiktorJerzyk/Moje-Filmy**
+- Następnie trzeba przejść do folderu w którym jest zawartość repozytorium **cd Moje-Filmy**
+- Odpalenie API: **cd /api/Project**
+- * dotnet restore
+  * dotnet run
+- Następnie otworzyć nowy terminal (np. vs code) i wpisać **cd ui/biblioteka-ui**
+- * npm install
+  * npm run dev
